@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#app-root {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f7fbff 0%, #ffffff 40%);
+}
+
+#site-footer {
+  background: linear-gradient(180deg, rgba(10,18,38,0.02), rgba(10,18,38,0.04));
+}
